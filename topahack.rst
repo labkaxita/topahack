@@ -38,19 +38,31 @@ NON?
 ZER?
 ====
 
-Proiektu ezberdinak aurkeztuko dira, eta beraietan lan egiteko aukera egongo da. Gure ideia lan-eremu bat sortzea da, gure artean lan egin ahal izateko eta zalantzak argitzeko.
+Dagoeneko proiektu ezberdinak planteatu diren arren, zerrenda guztiz irekia dago, beraz proposamenik baduzu, bota lasai!
 
-======================= ==================== ===============
-ostirala                larunbata            igandea
-======================= ==================== ===============
-bazkaria                gosaria              gosaria
-aurkezpena              jaietarako bideo eta proiektuak
-                        audio prestaketa
-networking              bazkaria             bazkaria
-subirautza teknologikoa proiektuak           kolonbiarekin
-afaria                  afaria
-\                       jaitxoa
-======================= ==================== ===============
+Dagoeneko aurkeztutako proiektuak:
+    - pankarten inprimagailua
+    - jaialdien prestaketa (audioa, bideoa, argiak, etab.)
+    - bideo edizioa blenderrekin
+
+Modu orientatiboan erabiliko dugun parrila ondorengoa da:
+
++----------------------+---------------------+--------------------------------+
+| ostirala             | larunbata           | igandea                        |
++======================+=====================+================================+
+|                      | gosaria             | gosaria                        | 
++----------------------+---------------------+--------------------------------+
+|                      | **proiektuak**      | **proiektuak**                 | 
++----------------------+---------------------+--------------------------------+
+| bazkaria             | bazkaria            | bazkaria                       | 
++----------------------+---------------------+--------------------------------+
+| aurkezpena + subiraut| **proiektuak**      | kolonbiarekin elkarrizketa?    | 
+| za teknologikoa      |                     |                                | 
++----------------------+---------------------+--------------------------------+
+| afaria               | afaria              |                                | 
++----------------------+---------------------+--------------------------------+
+|                      | jaitxoa             |                                | 
++----------------------+---------------------+--------------------------------+
 
 NOLA?
 =====
