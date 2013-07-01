@@ -1,0 +1,65 @@
+body {
+    background: #fcfcfc;
+    font-family: News Cycle;
+}
+div.document {
+    width: 60%;
+    margin: 3em auto;
+}
+img {
+    width: 100%;
+}
+pre {
+    color: grey;
+    text-align: left;
+}
+div.section {
+    text-align: center;
+}
+h1 {
+    font-family: Jura;
+    border-bottom: solid black .07em;
+    padding: .1em 1em;
+    display: inline-block;
+    margin: 1em 0 .5em 0;
+}
+p {
+    text-align: justify;
+}
+a {
+    color: grey;
+    text-decoration: none;
+}
+.spoiler-data {
+    display: none;
+}
+.spoiler:hover ~ .spoiler-data {
+    display: inline;
+}
+li {
+    text-align: left;
+    list-style: lower-greek;
+}
+hr {
+    margin-top: 3em;
+}
+div#antolatzea-lortuko-dute {
+    text-align: left;
+}
+div#antolatzea-lortuko-dute h1 {
+    font-size: 1.3em;
+    border: none;
+    display: block;
+    padding: 0;
+}
+div#antolatzea-lortuko-dute img {
+    width: 20%;
+    margin: 5% 5% 5% 0;
+    display: inline-block;
+    vertical-align: middle;
+}
+input[type="submit"] {
+    background: grey;
+    color: white;
+}
+
