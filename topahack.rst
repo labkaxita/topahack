@@ -17,16 +17,13 @@
 TOPAHACK?
 =========
 
-Kurtso guztian zehar hacklab eta gainontzeko ikastaroetan ikasi degun guztia elkartrukatzeko hacklaben eta sateliteen arteko topaketatxo bat antolatzea otu zaigu, petit komite.
+Kurtso guztian zehar hacklab eta gainontzeko ikastaroetan ikasi degun guztia elkartrukatzeko hacklaben eta inguruko sateliteen arteko topaketatxo bat antolatzea otu zaigu, petit komite. Proiektu ezberdinak daude proposatuta eta bakoitza bere interes berdinak dituen pertsonekin elkartzea da ideia.
 
 
 NOIZ?
 =====
 
-.. role:: spoiler
-.. role:: spoiler-data
-
-Parametro egokia emanez, goiko pythoneko funtzioak topahackaren hasiera bueltatuko du emaitza gisa (:spoiler:`spoiler` :spoiler-data:`topahack('- -   ---- -  -  - - -  -  -- -') 2013-07-19 14:00:13`). ~48h irauten ditu.
+Ostiralean bazkari batekin hasiko gera eta igandean beste bazkari batekin bukatuko dugu. **2013-07-19 14:00:13** -- **2013-07-21 14:00:13**. Ea aurkitzen duzun goiko pythoneko funtzioak hasiera data bueltatzeko jaso behar duen parametroa!
 
 
 NON?
@@ -40,10 +37,14 @@ ZER?
 
 Dagoeneko proiektu ezberdinak planteatu diren arren, zerrenda guztiz irekia dago, beraz proposamenik baduzu, bota lasai!
 
+
 Dagoeneko aurkeztutako proiektuak:
     - pankarten inprimagailua
     - jaialdien prestaketa (audioa, bideoa, argiak, etab.)
     - bideo edizioa blenderrekin
+    - guifi.net-eko supernodoen konfiguraketa
+    - enekenbat.cc webgunearen euskararatzea
+
 
 Modu orientatiboan erabiliko dugun parrila ondorengoa da:
 
@@ -64,12 +65,33 @@ Modu orientatiboan erabiliko dugun parrila ondorengoa da:
 |                      | jaitxoa             |                                | 
 +----------------------+---------------------+--------------------------------+
 
+
 NOLA?
 =====
 
-Lo egiteko gaztetxean.
-Dutxatzeko jendearen etxeetan.
-Egunero gosari, bazkari eta afariak Lakaxitan elkartzen diren barazki koperatiben eskutik (aldatsa, xixare, barealaia).
+
+Lo egiteko
+----------
+
+Gaztetxean bertan lo egiteko aukera izango dugu. Beharrezkoa izanez gero, hacklabeko kideen etxeetan geratzea ere posible da.
+
+
+Dutxatzeko
+----------
+
+Gaztetxean bertan ez dago dutxarik beraz dutxatzea nahi bada, Irunen bizi den norbaiten etxera joatea beharrezkoa izango da.
+
+
+Jateko
+------
+
+Egunero gosaria, bazkaria eta afaria egongo da Lakaxita Gaztetxean elkartzen diren barazki koperatiben eskutik (Aldatsa, Xixare eta Barealaia).
+
+
+Elkartrukatzeko
+---------------
+
+Lakaxitan barne sarea egongo da. Bertan Owncloud eta Ampache exekutatzen duen RaspberryPy bat egongo da 1TBeko disko gogorrarekin. Interneterako konexioa lotzen ere saiatuko gera.
 
 
 ETORRIKO ZEA?
@@ -109,17 +131,16 @@ ETORRIKO ZEA?
     </form>
 
 
-Goiko JS kodetxoak buruausteak bakarrik ematen badizkizu, bidali eposta bat `lakaxita@gaztetxea.org` helbidera hurrengoa betez::
+.. note:: Goiko JS kodetxoak buruausteak bakarrik ematen badizkizu, bidali eposta bat `lakaxita@gaztetxea.org` helbidera hurrengoa betez
 
     Ondorengo otorduetan egongo naiz:
-
-    ostirala-bazkaria: false/true
-    ostirala-afaria: false/true
-    ostirala-lo: false/true
-    larunbata-bazkaria: false/true
-    larunbata-afaria: false/true
-    larunbata-lo: false/true
-    igandea-bazkaria: false/true
+        - ostirala-bazkaria: false/true
+        - ostirala-afaria: false/true
+        - ostirala-lo: false/true
+        - larunbata-bazkaria: false/true
+        - larunbata-afaria: false/true
+        - larunbata-lo: false/true
+        - igandea-bazkaria: false/true
 
 
 ------------------------------------------------------------------------------------
