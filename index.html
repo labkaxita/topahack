@@ -32,6 +32,9 @@ h1 {
     display: inline-block;
     margin: 1em 0 .5em 0;
 }
+h2 {
+    font-family: Jura;
+}
 p {
     text-align: justify;
 }
@@ -39,18 +42,19 @@ a {
     color: grey;
     text-decoration: none;
 }
-.spoiler-data {
-    display: none;
-}
-.spoiler:hover ~ .spoiler-data {
-    display: inline;
-}
 li {
     text-align: left;
     list-style: lower-greek;
 }
 hr {
     margin-top: 3em;
+}
+.note {
+    margin: 1em;
+    padding: 1em;
+    font-size: .8em;
+    background: #eee;
+    color: #666;
 }
 div#antolatzea-lortuko-dute {
     text-align: left;
@@ -90,11 +94,11 @@ input[type="submit"] {
 </pre>
 <div class="section" id="topahack">
 <h1>TOPAHACK?</h1>
-<p>Kurtso guztian zehar hacklab eta gainontzeko ikastaroetan ikasi degun guztia elkartrukatzeko hacklaben eta sateliteen arteko topaketatxo bat antolatzea otu zaigu, petit komite.</p>
+<p>Kurtso guztian zehar hacklab eta gainontzeko ikastaroetan ikasi degun guztia elkartrukatzeko hacklaben eta inguruko sateliteen arteko topaketatxo bat antolatzea otu zaigu, petit komite. Proiektu ezberdinak daude proposatuta eta bakoitza bere interes berdinak dituen pertsonekin elkartzea da ideia.</p>
 </div>
 <div class="section" id="noiz">
 <h1>NOIZ?</h1>
-<p>Parametro egokia emanez, goiko pythoneko funtzioak topahackaren hasiera bueltatuko du emaitza gisa (<span class="spoiler">spoiler</span> <span class="spoiler-data">topahack('- -   ---- -  -  - - -  -  -- -') 2013-07-19 14:00:13</span>). ~48h irauten ditu.</p>
+<p>Ostiralean bazkari batekin hasiko gera eta igandean beste bazkari batekin bukatuko dugu. <strong>2013-07-19 14:00:13</strong> -- <strong>2013-07-21 14:00:13</strong>. Ea aurkitzen duzun goiko pythoneko funtzioak hasiera data bueltatzeko jaso behar duen parametroa!</p>
 </div>
 <div class="section" id="non">
 <h1>NON?</h1>
@@ -109,6 +113,8 @@ input[type="submit"] {
 <li>pankarten inprimagailua</li>
 <li>jaialdien prestaketa (audioa, bideoa, argiak, etab.)</li>
 <li>bideo edizioa blenderrekin</li>
+<li>guifi.net-eko supernodoen konfiguraketa</li>
+<li>enekenbat.cc webgunearen euskararatzea</li>
 </ul>
 </dd>
 </dl>
@@ -156,9 +162,22 @@ za teknologikoa</td>
 </div>
 <div class="section" id="nola">
 <h1>NOLA?</h1>
-<p>Lo egiteko gaztetxean.
-Dutxatzeko jendearen etxeetan.
-Egunero gosari, bazkari eta afariak Lakaxitan elkartzen diren barazki koperatiben eskutik (aldatsa, xixare, barealaia).</p>
+<div class="section" id="lo-egiteko">
+<h2>Lo egiteko</h2>
+<p>Gaztetxean bertan lo egiteko aukera izango dugu. Beharrezkoa izanez gero, hacklabeko kideen etxeetan geratzea ere posible da.</p>
+</div>
+<div class="section" id="dutxatzeko">
+<h2>Dutxatzeko</h2>
+<p>Gaztetxean bertan ez dago dutxarik beraz dutxatzea nahi bada, Irunen bizi den norbaiten etxera joatea beharrezkoa izango da.</p>
+</div>
+<div class="section" id="jateko">
+<h2>Jateko</h2>
+<p>Egunero gosaria, bazkaria eta afaria egongo da Lakaxita Gaztetxean elkartzen diren barazki koperatiben eskutik (Aldatsa, Xixare eta Barealaia).</p>
+</div>
+<div class="section" id="elkartrukatzeko">
+<h2>Elkartrukatzeko</h2>
+<p>Lakaxitan barne sarea egongo da. Bertan Owncloud eta Ampache exekutatzen duen RaspberryPy bat egongo da 1TBeko disko gogorrarekin. Interneterako konexioa lotzen ere saiatuko gera.</p>
+</div>
 </div>
 <div class="section" id="etorriko-zea">
 <h1>ETORRIKO ZEA?</h1>
@@ -191,18 +210,23 @@ Egunero gosari, bazkari eta afariak Lakaxitan elkartzen diren barazki koperatibe
         <li><input type="checkbox" name="igandea-bazkaria"/>igandeko bazkarira</li>
     </ul>
     <input type="submit" name="submit" value="Bidali!"/>
-</form><p>Goiko JS kodetxoak buruausteak bakarrik ematen badizkizu, bidali eposta bat <cite>lakaxita&#64;gaztetxea.org</cite> helbidera hurrengoa betez:</p>
-<pre class="literal-block">
-Ondorengo otorduetan egongo naiz:
-
-ostirala-bazkaria: false/true
-ostirala-afaria: false/true
-ostirala-lo: false/true
-larunbata-bazkaria: false/true
-larunbata-afaria: false/true
-larunbata-lo: false/true
-igandea-bazkaria: false/true
-</pre>
+</form><div class="note">
+<p class="first admonition-title">Note</p>
+<p>Goiko JS kodetxoak buruausteak bakarrik ematen badizkizu, bidali eposta bat <cite>lakaxita&#64;gaztetxea.org</cite> helbidera hurrengoa betez</p>
+<dl class="last docutils">
+<dt>Ondorengo otorduetan egongo naiz:</dt>
+<dd><ul class="first last simple">
+<li>ostirala-bazkaria: false/true</li>
+<li>ostirala-afaria: false/true</li>
+<li>ostirala-lo: false/true</li>
+<li>larunbata-bazkaria: false/true</li>
+<li>larunbata-afaria: false/true</li>
+<li>larunbata-lo: false/true</li>
+<li>igandea-bazkaria: false/true</li>
+</ul>
+</dd>
+</dl>
+</div>
 </div>
 <hr class="docutils" />
 <div class="section" id="antolatzea-lortuko-dute">
