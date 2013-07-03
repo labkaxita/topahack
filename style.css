@@ -110,14 +110,25 @@ input[type="submit"] {
     background: grey;
     color: white;
 }
-th.head {
-    font-variant: small-caps;
-}
 thead {
     background: grey;
     color: white;
+    text-transform: uppercase;
 }
-colgroup {
-    border: solid red .1em;
+table {
+    border: none;
+    border-collapse: collapse;
+    width: 100%;
+    font-variant: small-caps;
+    margin: 2em 0;
+}
+th {
+    border: none;
+}
+td {
+    border: solid gray .1em;
+}
+col {
+    width: 33%;
 }
 
