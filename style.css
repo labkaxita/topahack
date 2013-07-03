@@ -67,6 +67,9 @@ h1 {
     display: inline-block;
     margin: 1em 0 .5em 0;
 }
+h2 {
+    font-family: Jura;
+}
 p {
     text-align: justify;
 }
@@ -74,18 +77,19 @@ a {
     color: grey;
     text-decoration: none;
 }
-.spoiler-data {
-    display: none;
-}
-.spoiler:hover ~ .spoiler-data {
-    display: inline;
-}
 li {
     text-align: left;
     list-style: lower-greek;
 }
 hr {
     margin-top: 3em;
+}
+.note {
+    margin: 1em;
+    padding: 1em;
+    font-size: .8em;
+    background: #eee;
+    color: #666;
 }
 div#antolatzea-lortuko-dute {
     text-align: left;
