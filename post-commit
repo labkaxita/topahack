@@ -1,6 +1,6 @@
 #!/bin/bash
 
-./create
+./create.sh
 git checkout gh-pages
 cp output.html index.html
 git add index.html
