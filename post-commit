@@ -4,5 +4,5 @@
 git checkout gh-pages
 cp output.html index.html
 git add index.html
-git commit -m "`git log -1 --pretty=%B`"
+git commit -m "`git log --pretty=%B -n 1 master`"
 git checkout master
