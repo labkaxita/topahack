@@ -73,7 +73,7 @@ NOLA?
 Lo egiteko
 ----------
 
-Gaztetxean bertan lo egiteko aukera izango dugu. Beharrezkoa izanez gero, hacklabeko kideen etxeetan geratzea ere posible da.
+Gaztetxean bertan lo egiteko aukera izango dugu. Nahi duenak ere kanpoan jarri daiteke kanpin dendarekin. Beharrezkoa izanez gero, hacklabeko kideen etxeetan geratzea ere posible da.
 
 
 Dutxatzeko
