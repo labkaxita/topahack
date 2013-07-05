@@ -87,6 +87,30 @@ Jateko
 
 Egunero gosaria, bazkaria eta afaria egongo da Lakaxita Gaztetxean elkartzen diren barazki koperatiben eskutik (Aldatsa, Xixare eta Barealaia).
 
++----------------------------+----------------------------+--------------------------------+
+| ostirala                   | larunbata                  | igandea                        |
++============================+============================+================================+
+|                            | **gosaria**                | **gosaria**                    | 
++                            +                            +                                +
++                            + - Zukuak                   + - Zukuak                       +
+|                            | - Kafea                    | - Kafea                        | 
++                            + - Beizamako ogia           + - Beizamako ogia               +
+|                            | - Untatzeko gauzak         | - Untatzeko gauzak             | 
++----------------------------+----------------------------+--------------------------------+
+| **bazkaria**               | **bazkaria**               | **bazkaria**                   | 
++                            +                            +                                +
++ - Entsalada buffeta        + - Entsalada buffeta        + - Entsalada buffeta            +
+| - Arroza berdurakin        | - Cous-cous                | - Tortila patata               | 
++ - Fruta (era desberdinetan)+ - Fruta (era desberdinetan)+ - Fruta (era desberdinetan)    +
++----------------------------+----------------------------+--------------------------------+
+| **afaria**                 | **afaria**               |                                | 
++                            +                            +                                +
++ - Entsalada buffeta        + - Entsalada buffeta        +                                +
+| - Falafel tomate saltsan   | - Patatak saltsa-berdean   |                                | 
++ - Fruta (era desberdinetan)+ - Fruta (era desberdinetan)+                                +
+|                            |                            |                                | 
++----------------------------+----------------------------+--------------------------------+
+
 
 Elkartrukatzeko
 ---------------
