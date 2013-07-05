@@ -108,7 +108,8 @@ Egunero gosaria, bazkaria eta afaria egongo da Lakaxita Gaztetxean elkartzen dir
 + - Entsalada buffeta        + - Entsalada buffeta        +                                +
 | - Falafel tomate saltsan   | - Patatak saltsa-berdean   |                                | 
 + - Fruta (era desberdinetan)+ - Fruta (era desberdinetan)+                                +
-|----------------------------|----------------------------|--------------------------------|
+|                            |                            |                                |
++----------------------------+----------------------------+--------------------------------+
 
 
 Elkartrukatzeko
