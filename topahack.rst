@@ -1,6 +1,6 @@
 .. raw:: html
 
-    <img src="https://enekenbat.cc/file/download/227885" title="- -   ---- -  -  - - -  -  -- -" />
+    <img src="https://raw.github.com/labkaxita/topahack/master/images/logos/topahack_logo.png" title="- -   ---- -  -  - - -  -  -- -" />
 
 
 .. code:: python
@@ -29,7 +29,7 @@ Ostiralean bazkari batekin hasiko gera eta igandean beste bazkari batekin bukatu
 NON?
 ====
 
-`Lakaxita Gaztetxean <http://www.lakaxita.org/>`_ `(43.34077477455139, -1.8035200238227844) <http://osm.org/go/b~nOL9yzq-->`_, Irunen.
+`Lakaxita Gaztetxean <https://www.lakaxita.org/>`_ `(43.34077477455139, -1.8035200238227844) <https://osm.org/go/b~nOL9yzq-->`_, Irunen.
 
 
 ZER?
@@ -167,14 +167,48 @@ ETORRIKO ZEA?
         - igandea-bazkaria: false/true
 
 
+
+MATERIALA
+=========
+
+
+Logoa: `svg <https://raw.github.com/labkaxita/topahack/master/images/logos/topahack_logo.svg>`__ | `png <https://raw.github.com/labkaxita/topahack/master/images/logos/topahack_logo.png>`__
+
+Logo karratua: `svg <https://raw.github.com/labkaxita/topahack/master/images/logos/topahack_karratua.svg>`__ | `png <https://raw.github.com/labkaxita/topahack/master/images/logos/topahack_karratua.png>`__
+
+Kartela: `svg <https://raw.github.com/labkaxita/topahack/master/images/poster/topahack.svg>`__ | `pdf <https://raw.github.com/labkaxita/topahack/master/images/poster/topahack.pdf>`__
+
+Inprimatzeko kartela: `svg <https://raw.github.com/labkaxita/topahack/master/images/poster/topahack_inprimitzeko.svg>`__ | `pdf <https://raw.github.com/labkaxita/topahack/master/images/poster/topahack_inprimitzeko.pdf>`__
+
+Txapak: `svg <https://raw.github.com/labkaxita/topahack/master/images/txapa/txapa.svg>`__ | `png <https://raw.github.com/labkaxita/topahack/master/images/txapa/txapa.png>`__
+
+
 ------------------------------------------------------------------------------------
 
-ANTOLATZEA LORTUKO DUTE?
-========================
 
-.. image:: https://enekenbat.cc/file/download/227887
+ANTOLATZAILEAK
+==============
+
+Milesker laguntzagatik!
+
+.. image:: https://raw.github.com/labkaxita/topahack/master/images/logos/lakaxita.jpg
     :alt: Lakaxita Gaztetxea
-    :target: http://www.lakaxita.org/
+    :target: https://www.lakaxita.org/
 
-.. image:: https://enekenbat.cc/file/download/227886
+.. image:: https://raw.github.com/labkaxita/topahack/master/images/logos/labkaxita.jpg
     :alt: Labkaxita Hacklaba
+
+.. image:: https://raw.github.com/labkaxita/topahack/master/images/logos/hackelarre.jpg
+    :alt: Hackelarre Hacklaba
+
+.. image:: https://raw.github.com/labkaxita/topahack/master/images/logos/hackinbadakigu.jpg
+    :alt: Hackinbadakigu
+
+.. image:: https://raw.github.com/labkaxita/topahack/master/images/logos/aldatsa.jpg
+    :alt: Aldatsa Barazki Koperatiba
+
+.. image:: https://raw.github.com/labkaxita/topahack/master/images/logos/barealaia.jpg
+    :alt: Barealaia Barazki Koperatiba
+
+.. image:: https://raw.github.com/labkaxita/topahack/master/images/logos/xixare.jpg
+    :alt: Xixare Barazki Koperatiba

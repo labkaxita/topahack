@@ -102,16 +102,7 @@ hr {
     background: #eee;
     color: #666;
 }
-div#antolatzea-lortuko-dute {
-    text-align: left;
-}
-div#antolatzea-lortuko-dute h1 {
-    font-size: 1.3em;
-    border: none;
-    display: block;
-    padding: 0;
-}
-div#antolatzea-lortuko-dute img {
+div#antolatzaileak img {
     width: 20%;
     margin: 5% 5% 5% 0;
     display: inline-block;
