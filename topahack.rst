@@ -44,6 +44,7 @@ Dagoeneko aurkeztutako proiektuak:
     - bideo edizioa blenderrekin
     - guifi.net-eko supernodoen konfiguraketa
     - enekenbat.cc webgunearen euskararatzea
+    - arduinoren inguruan hainbat kontu
 
 
 Modu orientatiboan erabiliko dugun parrila ondorengoa da:
@@ -115,7 +116,7 @@ Egunero gosaria, bazkaria eta afaria egongo da Lakaxita Gaztetxean elkartzen dir
 Elkartrukatzeko
 ---------------
 
-Lakaxitan barne sarea egongo da. Bertan Owncloud eta Ampache exekutatzen duen RaspberryPy bat egongo da 1TBeko disko gogorrarekin. Interneterako konexioa lotzen ere saiatuko gera.
+Lakaxitan barne sarea egongo da. FTP, owncloud eta MPD zerbitzaria 1TBeko disko gogorrakin! Interneterako konexioa lotzen ere saiatuko gera.
 
 
 ETORRIKO ZEA?
